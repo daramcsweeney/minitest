@@ -14,6 +14,7 @@ I also couldn't figure out how to format/parse JSON so couldnt complete feed 2 <
 Assumptions: <br />
  randomly generated notional price between 50-150 million <br />
  randomly generated r between 5-10% and RA between 0-5% <br />
+ As the pricing formula is in USD, price formula may be affected by exchange rate
 <br />
 Task 4:
 1.   <br />
