@@ -16,6 +16,7 @@ Assumptions: <br />
  randomly generated r between 5-10% and RA between 0-5% <br />
  As the pricing formula is in USD, price formula may be affected by exchange rate
 <br />
+<br />
 Task 4:
 1.   Use more efficient data scructures to reduce time <br />
 2.   Try to recognise patterns in the data that can be optimised <br />
