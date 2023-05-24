@@ -12,7 +12,7 @@ Because of the way I started the test, it was quite difficult to break the scrip
 I also couldn't figure out how to format/parse JSON so couldnt complete feed 2 <br /> 
 <br />
 Assumptions: <br />
- randomly generated price between 50-150 million <br />
+ randomly generated notional price between 50-150 million <br />
  randomly generated r between 5-10% and RA between 0-5% <br />
 <br />
 Task 4:
